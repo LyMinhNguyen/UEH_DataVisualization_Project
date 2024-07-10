@@ -18,5 +18,13 @@ Dự án này nhằm phân tích và trực quan hóa dữ liệu trong ngành B
 
 - **/data**: Thư mục chứa các tập tin dữ liệu được sử dụng trong dự án.
 - **/code**: Thư mục chứa mã nguồn phân tích và trực quan hóa dữ liệu.
-- **/docs**: Tài liệu hướng dẫn hoặc tài liệu phân tích kết quả.
-- **/results**: Kết quả phân tích và trực quan hóa dữ liệu.
+- **/Presentation slide**: Thư mục chứa slide thuyết trình của nhóm.
+- **/Report**: Thư mục chứa file báo cáo toàn bộ dự án.
+
+## Giảng viên hướng dẫn
+
+- Tiến sĩ Nguyễn An Tế
+
+## Bản quyền
+
+© 2024 Đại học UEH. Mọi quyền được bảo lưu.
