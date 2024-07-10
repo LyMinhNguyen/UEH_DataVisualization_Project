@@ -16,8 +16,8 @@ Dự án này nhằm phân tích và trực quan hóa dữ liệu trong ngành B
 
 ## Cấu trúc repo
 
-- **/data**: Thư mục chứa các tập tin dữ liệu được sử dụng trong dự án.
-- **/code**: Thư mục chứa mã nguồn phân tích và trực quan hóa dữ liệu.
+- **/Code**: Thư mục chứa mã nguồn phân tích và trực quan hóa dữ liệu.
+- **/Data**: Thư mục chứa các tập tin dữ liệu được sử dụng trong dự án.
 - **/Presentation slide**: Thư mục chứa slide thuyết trình của nhóm.
 - **/Report**: Thư mục chứa file báo cáo toàn bộ dự án.
 
